@@ -3,7 +3,7 @@ Soy Mauro Venticinque. Me dedico al desarrollo web, principalmente con Next.js, 
 
 
 ## 🌐 Socials:
-[![Website](https://img.shields.io/badge/m25.com.ar-Website-informational?logo=google-chrome&logoColor=white&color=gray)](https://m25.com.ar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/mauro-venticinque) [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white)](mailto:mauro25qe@gmail.com)
+[![Website](https://img.shields.io/badge/Portfolio-m25.com.ar-0A0A0A?logo=google-chrome&logoColor=white)](https://m25.com.ar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mauro-venticinque) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mauro25qe@gmail.com)
 
 
 # 💻 Tech Stack:
